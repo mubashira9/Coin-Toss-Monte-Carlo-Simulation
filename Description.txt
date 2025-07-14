@@ -1,0 +1,6 @@
+This project explores the probability of getting a specific number of heads when tossing a fair coin 
+multiple times. It focuses on three cases: tossing a coin 10 times (target: 5 heads), 50 times (target: 
+25 heads), and 100 times (target: 50 heads). The theoretical probability is calculated using the 
+binomial distribution formula. A Monte Carlo simulation runs 1000 experiments for each scenario to 
+estimate the probability in practice. By comparing theoretical and simulated results, this project 
+shows how probability theory and Python simulations work together.
