@@ -23,7 +23,7 @@ This project demonstrates how to calculate the probability of getting a specific
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/Coin-Toss-Monte-Carlo-Simulation.git
+git clone https://github.com/mubashira9/Coin-Toss-Monte-Carlo-Simulation.git
 
 2. Open the notebook in Google Colab **or** run the Python script locally.
 
